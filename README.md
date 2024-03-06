@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**PritiAryal/PritiAryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi👋
 
 - 🔭 I’m currently pursuing my master's degree in Computer Science.
 - 🌱 I’m currently honing my skills in software development and cybersecurity, striving to make a meaningful impact in the field.
@@ -14,3 +8,7 @@ Here are some ideas to get you started:
 - 📫 Feel free to connect with me on Linkedin: https://www.linkedin.com/in/priti-aryal-32293729b
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: Outside of the CS realm, you might find me sketching, channeling my creativity into artwork.
+<!--
+**PritiAryal/PritiAryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
