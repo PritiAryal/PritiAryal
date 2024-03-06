@@ -1,13 +1,13 @@
 ### Hi👋
 
-- 🔭 I’m currently pursuing my master's degree in Computer Science.
-- 🌱 I’m currently honing my skills in software development and cybersecurity, striving to make a meaningful impact in the field.
-- 👯 I’m looking to collaborate on innovative full stack projects that merge artistry and technology to create transformative solutions.
-- 🤔 I’m actively seeking opportunities in full-stack development to apply and expand expertise.
-- 💬 Feel free to inquire about my academic journey in computer science and practical experiences in software development.
-- 📫 Feel free to connect with me on Linkedin: https://www.linkedin.com/in/priti-aryal-32293729b
+- 🔭 Currently pursuing a master's degree in Computer Science.
+- 🌱 Actively honing skills in software development and cybersecurity, aiming for impactful contributions.
+- 👯 Seeking collaboration on innovative full-stack projects blending artistry and technology.
+- 🤔 Actively seeking opportunities in full-stack development to apply and expand expertise.
+- 💬 Inquire about my academic journey in computer science and practical experiences in software development.
+- 📫 Let's connect on LinkedIn: Priti Aryal - LinkedIn Profile
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: Outside of the CS realm, you might find me sketching, channeling my creativity into artwork.
+- ⚡ Fun fact: Beyond CS, I enjoy sketching to unleash my creativity.
 <!--
 **PritiAryal/PritiAryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
