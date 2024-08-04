@@ -11,4 +11,7 @@
 **PritiAryal/PritiAryal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 Let's connect on LinkedIn: [Priti Aryal - LinkedIn Profile](https://www.linkedin.com/in/priti-aryal-32293729b)
 
+### Analytics
+https://streak-stats.demolab.com/?user=pritiaryal&theme=default)
+
 Here are some ideas to get you started:
