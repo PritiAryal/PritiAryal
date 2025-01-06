@@ -6,7 +6,7 @@
 - 🤔 Actively seeking opportunities in full-stack development to apply and expand expertise.
 - 💬 Inquire about my academic journey in computer science and practical experiences in software development.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: Beyond CS, I enjoy sketching to unleash my creativity.
+- ⚡ Fun fact: Beyond CS, I enjoy sketching.
   
 ### Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pritiaryal&theme=transparent)](https://git.io/streak-stats)
