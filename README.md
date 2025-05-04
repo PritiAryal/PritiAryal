@@ -1,6 +1,5 @@
 ### Hi👋
 
-- 🔭 Currently pursuing a master's degree in Computer Science.
 - 🌱 Actively honing skills in software development and cybersecurity, aiming for impactful contributions.
 - 👯 Seeking collaboration on innovative full-stack projects blending artistry and technology.
 - 🤔 Actively seeking opportunities in full-stack development to apply and expand expertise.
